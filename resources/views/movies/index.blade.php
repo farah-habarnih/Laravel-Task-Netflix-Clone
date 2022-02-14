@@ -51,7 +51,7 @@
                     <input type="text" name="username" id="username" placeholder="Hugh Jackman" pattern="^[a-zA-Z][a-zA-Z0-9-_\.]{8,20}$" required="required" />
                 </label>
         	</div>
-           
+
             <div class="row">
             	<label for="password">
                     Password:
@@ -92,7 +92,7 @@
                     <input type="text" name="username" id="username-2" placeholder="Hugh Jackman" pattern="^[a-zA-Z][a-zA-Z0-9-_\.]{8,20}$" required="required" />
                 </label>
             </div>
-           
+
             <div class="row">
                 <label for="email-2">
                     your email:
@@ -162,7 +162,7 @@
 										<li><a href="moviegrid.html">Movie grid</a></li>
 										<li><a href="moviegridfw.html">movie grid full width</a></li>
 									</ul>
-								</li>			
+								</li>
 								<li><a href="movielist.html">Movie list</a></li>
 								<li><a href="moviesingle.html">Movie single</a></li>
 								<li class="it-last"><a href="seriessingle.html">Series single</a></li>
@@ -211,7 +211,7 @@
 								<li><a href="404.html">404 Page</a></li>
 								<li class="it-last"><a href="comingsoon.html">Coming soon</a></li>
 							</ul>
-						</li>                
+						</li>
 						<li><a href="#">Help</a></li>
 						<li class="loginLink"><a href="#">LOG In</a></li>
 						<li class="btn signupLink"><a href="#">sign up</a></li>
@@ -219,7 +219,7 @@
 				</div>
 			<!-- /.navbar-collapse -->
 	    </nav>
-	    
+
 	    <!-- top search form -->
 	    <div class="top-search">
 	    	<select>
@@ -283,8 +283,8 @@
                                 </form>
 								<p class="rate"><i class="ion-android-star"></i><span>8.1</span> /10</p>
 							</div>
-						</div>	
-                        @endforeach				
+						</div>
+                        @endforeach
 						<div class="movie-item-style-2 movie-item-style-1">
 							<img src="../images/uploads/mv2.jpg" alt="">
 							<div class="hvr-inner">
@@ -295,8 +295,8 @@
 								<p class="rate"><i class="ion-android-star"></i><span>7.8</span> /10</p>
 							</div>
 						</div>
-					
-					
+
+
 						<div class="movie-item-style-2 movie-item-style-1">
 	            			<img src="../images/uploads/mv-item3.jpg" alt="">
 	            			<div class="hvr-inner">
@@ -307,8 +307,8 @@
 	            				<p class="rate"><i class="ion-android-star"></i><span>7.4</span> /10</p>
 	            			</div>
 	            		</div>
-					
-					
+
+
 						<div class="movie-item-style-2 movie-item-style-1">
 	            			<img src="../images/uploads/mv-item4.jpg" alt="">
 	            			<div class="hvr-inner">
@@ -326,7 +326,7 @@
 	            			</div>
 							<div class="mv-item-infor">
 								<h6><a href="#">blade runner  </a></h6>
-								<p class="rate"><i class="ion-android-star"></i><span>7.3</span> /10</p>
+								<p class="rate"><i class="ion-android-star"></i><span>7.4</span> /10</p>
 							</div>
 						</div>
 						<div class="movie-item-style-2 movie-item-style-1">
@@ -479,14 +479,14 @@
 	            				<p class="rate"><i class="ion-android-star"></i><span>7.4</span> /10</p>
 	            			</div>
 	            		</div>
-				</div>		
+				</div>
 				<div class="topbar-filter">
 					<label>Movies per page:</label>
 					<select>
 						<option value="range">20 Movies</option>
 						<option value="saab">10 Movies</option>
 					</select>
-					
+
 					<div class="pagination2">
 						<span>Page 1 of 2:</span>
 						<a class="active" href="#">1</a>
@@ -521,7 +521,7 @@
 					                        <option value="Action4">Action 4</option>
 					                        <option value="Action5">Action 5</option>
 										</select>
-									</div>	
+									</div>
 								</div>
 								<div class="col-md-12 form-it">
 									<label>Rating Range</label>
@@ -567,7 +567,7 @@
 							</div>
 							<div class="tweet item" id=""><!-- Put your 2nd twiter account id here -->
 							</div>
-						</div>					
+						</div>
 					</div>
 				</div>
 			</div>
@@ -587,7 +587,7 @@
 			<div class="flex-child-ft item2">
 				<h4>Resources</h4>
 				<ul>
-					<li><a href="#">About</a></li> 
+					<li><a href="#">About</a></li>
 					<li><a href="#">Blockbuster</a></li>
 					<li><a href="#">Contact Us</a></li>
 					<li><a href="#">Forums</a></li>
@@ -598,16 +598,16 @@
 			<div class="flex-child-ft item3">
 				<h4>Legal</h4>
 				<ul>
-					<li><a href="#">Terms of Use</a></li> 
-					<li><a href="#">Privacy Policy</a></li>	
+					<li><a href="#">Terms of Use</a></li>
+					<li><a href="#">Privacy Policy</a></li>
 					<li><a href="#">Security</a></li>
 				</ul>
 			</div>
 			<div class="flex-child-ft item4">
 				<h4>Account</h4>
 				<ul>
-					<li><a href="#">My Account</a></li> 
-					<li><a href="#">Watchlist</a></li>	
+					<li><a href="#">My Account</a></li>
+					<li><a href="#">Watchlist</a></li>
 					<li><a href="#">Collections</a></li>
 					<li><a href="#">User Guide</a></li>
 				</ul>
